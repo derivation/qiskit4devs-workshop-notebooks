@@ -10,12 +10,12 @@ Note: The first cell in each of the notebooks installs Qiskit into the user's Co
 **To run locally:** Clone or download this repository, and install the Qiskit foundational libraries in a Python environment using the instructions on the [Qiskit Terra site](https://qiskit.org/terra).
 
 ## Guided exercises (recommended to do in this order)
-#### [The quantum version of a NOT gate](./multi_qubit_circuits.ipynb)
+#### [The quantum version of a NOT gate](./quantum_not_gate_qiskit.ipynb)
 This guided exercise is an introduction to creating a single-wire quantum circuit using Qiskit, and to the Pauli-X gate. It also introduces *qubits*, including various ways to represent and visualize them. 
 
-#### Flipping a coin quantumly
+#### [Flipping a coin quantumly](./quantum_coin_flipping.ipynb)
 This guided exercise introduces the Hadamard gate, quantum superpositions, probability amplitudes, and measurement probabilities. It also serves as a gentle introduction to Dirac notation.
 
-#### Multi-qubit quantum circuits
+#### [Multi-qubit quantum circuits](./multi_qubit_circuits.ipynb)
 This guided exercise builds on the previous one by creating circuits with multiple qubits, and examining their quantum state vectors. It also demonstrates how quantums states may be visualized.
 
