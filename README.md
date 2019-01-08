@@ -2,7 +2,7 @@
 Jupyter notebooks containing guided exercises for developers learining quantum computing with Qiskit.
 
 ## Instructions
-These notebooks may be run in the cloud, or downloaded and run locally. When running in the cloud environments mentioned here, using a Chromium-based broswer such as Chrome or Brave is strongly recommended:
+These notebooks may be run in the cloud, or downloaded and run locally. **Note: When running in the cloud environments mentioned here, using a Chromium-based broswer such as Chrome or Brave is strongly recommended**
 
 **To run in Google Colaboratory (in the cloud):** Ensure that you have a Google account, and navigate to your desired notebook in this repository. Click the **Open in Colab** icon at the top the notebook.
 Note: The first cell in each of the notebooks installs Qiskit into the user's Colaboratory environment, so there is a bit of a delay and lots of output during this process.  
