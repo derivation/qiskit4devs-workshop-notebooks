@@ -19,3 +19,15 @@ This guided exercise introduces the Hadamard gate, quantum superpositions, proba
 #### [Multi-qubit quantum circuits](./multi_qubit_circuits.ipynb)
 This guided exercise builds on the previous one by creating circuits with multiple qubits, and examining their quantum state vectors. It also demonstrates how quantums states may be visualized.
 
+## Troubleshooting Guide
+Here are some common issues and their resolutions
+<table>
+    <tr>
+        <th>Symptom</th>
+        <th>What to do</th>
+    </tr>
+    <tr>
+        <td>Cell contains an error message that contains ChangedInMarshmallow3Warning</td>
+        <td>Not a problem, but re-run the cell to make it disappear</td>
+    </tr>
+</table>
