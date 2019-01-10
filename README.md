@@ -1,5 +1,5 @@
 # Learning Qiskit: Guided exercises for developers
-Jupyter notebooks containing guided exercises for developers learining quantum computing with Qiskit.
+Jupyter notebooks containing guided exercises for developers learning quantum computing with Qiskit.
 
 ## Instructions
 These notebooks may be run in the cloud, or downloaded and run locally. 
